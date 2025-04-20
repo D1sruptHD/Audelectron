@@ -1,0 +1,9 @@
+{
+  "name": "Audelectron",    
+  "version": "1.2",       
+  "author": "Oculine",    
+  "main": "main.js",        
+  "dependencies": {
+    "electron": "34.2.0"   
+}
+}
